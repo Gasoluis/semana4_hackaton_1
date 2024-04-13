@@ -9,7 +9,7 @@ h1{
 }
 header{
     color:green;
-    text-align: center;
+    text-align:left;
 
 }
 #gatos{
@@ -19,12 +19,15 @@ header{
     color:darkolivegreen;
 }
 #hamsters{
-    color: beige;
+    color: rgb(167, 167, 13);
 }
 #conejos{
     color:black
 }
 h2{
-    color:black;
+    color:rebeccapurple;
     font-style: oblique;
+}
+.img-1{
+    width: 20%;
 }
